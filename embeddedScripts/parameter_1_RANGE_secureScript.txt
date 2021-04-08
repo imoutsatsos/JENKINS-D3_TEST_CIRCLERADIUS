@@ -1,0 +1,12 @@
+html=
+'''
+<p>
+  <input type="range" min="1" max="150" id="nRadius">
+  <label for="nRadius" 
+         style="display: inline-block; width: 240px; text-align: left">
+         radius = <span id="nRadius-value">…</span>
+  </label>
+</p>
+<hr>
+'''
+return html

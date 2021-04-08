@@ -1,0 +1,5 @@
+html=
+'''
+<input name="value" value="Adjust with RANGE Control" class="setting-input-radius" type="text">
+'''
+return html
